@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/space_boom.wav-da5a2321b099151ddc30932e5d99b986.sample"
+
+[deps]
+
+source_file="res://space_boom.wav"
+dest_files=[ "res://.import/space_boom.wav-da5a2321b099151ddc30932e5d99b986.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
